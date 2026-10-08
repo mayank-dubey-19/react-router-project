@@ -1,0 +1,10 @@
+.can6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 50%;
+    height: 60px;
+    margin: 10px auto;
+}

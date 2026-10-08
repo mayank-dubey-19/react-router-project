@@ -1,0 +1,40 @@
+.can{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 10px;
+    height: 60px;
+    width: 49%;
+    margin: 10px auto;
+
+}
+.can1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.can2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.can3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.active{
+    color: orange;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+.deactive{
+    color: black;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
